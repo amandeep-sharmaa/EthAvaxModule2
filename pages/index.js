@@ -129,14 +129,17 @@ export default function CrowdfundingPage() {
   };
 
   return (
-    <main className="container">
-      <header><h1>Welcome to Crowdfunding Platform!</h1></header>
-      {initUser()}
-      <style jsx>{`
-        .container {
-          text-align: center;
-        }
-      `}</style>
-    </main>
+  <main className="container">
+  <header>
+    <h1>Welcome to EtherFund</h1>
+    <p style={{ fontSize: 'smaller' }}>- A Decentralised Crowdfunding Platform!</p>
+  </header>
+  {initUser()}
+  <style jsx>{`
+    .container {
+      text-align: center;
+    }
+  `}</style>
+</main>
   );
 }
