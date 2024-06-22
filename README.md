@@ -54,7 +54,7 @@ This decentralized crowdfunding platform is built on the Ethereum blockchain. It
 
 ## Contract Details
 
-The smart contracts manage crowdfunding campaigns, including contributions, campaign details, and funds withdrawal upon completion.
+The smart contracts manage crowdfunding campaigns, including contributions and funds withdrawal upon completion.
 
 ## Configuration
 
