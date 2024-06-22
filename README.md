@@ -1,4 +1,5 @@
-# Decentralized Crowdfunding Platform
+# EtherFund
+ A Decentralized Crowdfunding Platform
 
 ## Overview
 
